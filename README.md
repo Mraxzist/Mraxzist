@@ -22,7 +22,7 @@
 ---
 
 ### 🔭 Открытые проекты
-- **[mb_lookup](https://github.com/Mraxzist/mb_lookup)** - поиск хэшей/артефактов по MalwareBazaar для TI/DFIR/SOC/Th.
+- **[mb_lookup](https://github.com/Mraxzist/mb_lookup)** - поиск хэшей/артефактов по MalwareBazaar для TI/DFIR/SOC/Threat Hunting.
 
 ---
 
