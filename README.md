@@ -39,5 +39,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/MrAxzist)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mraxzist/Mraxzist/output/github-contribution-grid-snake.svg" alt="snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mraxzist/Mraxzist/output/snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Mraxzist/Mraxzist/output/snake.svg" />
+  </picture>
 </p>
