@@ -7,6 +7,8 @@
 
 Я начинающий **malware analyst / reverse engineer**. Пишу на **C/C++**, **Python** и постепенно осваиваю тайны **Assembly**.
 
+PHP за опыт не считаю.
+
 #### Интересы
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
